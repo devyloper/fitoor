@@ -12,6 +12,14 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily: {
+        'dmserif': ['DM Serif Display', 'serif'],
+        'pinyon': ['Pinyon Script', 'cursive'],
+        'cardo': ['Cardo', 'serif'],
+      },
+      colors: {
+        'off-white': '#F6EEE3',
+      },
     },
   },
   plugins: [],
